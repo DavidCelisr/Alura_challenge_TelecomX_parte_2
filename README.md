@@ -42,16 +42,18 @@ Se trabajó con un conjunto de datos que incluye información de clientes, tipo 
 - **Paquetes personalizados** que reduzcan los costos para usuarios con gastos elevados.
 - **Programas de seguimiento** para clientes con quejas recurrentes o baja satisfacción.
 
-🙋 Sobre mí
+## 🙋 Sobre mí
 Mi nombre es David Celis, soy estudiante de Ciencias de Datos con interés en análisis de negocios, visualización de datos y automatización. Me apasiona transformar datos en decisiones.
 
 Este proyecto fue desarrollado como parte de mi formación práctica y está orientado a resolver problemas reales mediante el análisis exploratorio de datos.
 
 📫 Puedes contactarme a través de LinkedIn o por correo si deseas saber más sobre mi trabajo.
 
-🙏 Agradecimientos
+## 🙏 Agradecimientos
 Gracias por tomarte el tiempo de revisar este proyecto.
 
-Este análisis fue realizado como parte de una actividad formativa para aplicar técnicas de análisis exploratorio de datos, visualización y toma de decisiones basadas en evidencia, gracias al apoyo y el programa Oracle One con Alura.
+Este análisis fue desarrollado como parte de una actividad formativa enfocada en estudiar la evasión de clientes en un caso empresarial real. El trabajo incluyó la creación de modelos predictivos y el análisis de resultados para respaldar la toma de decisiones basadas en datos.
 
-¡Espero que te resulte útil o inspirador para tus propios proyectos!
+Quiero expresar mi agradecimiento a Oracle One y Alura por su apoyo y por brindar las herramientas necesarias para llevar a cabo este proyecto.
+
+¡Espero que este trabajo te resulte útil o sirva de inspiración para tus propios proyectos!
