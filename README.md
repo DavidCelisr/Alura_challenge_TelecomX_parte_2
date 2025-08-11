@@ -4,6 +4,10 @@
 Este proyecto tiene como objetivo identificar los principales factores que influyen en la cancelación de clientes y proponer estrategias de retención basadas en datos.  
 Se trabajó con un conjunto de datos que incluye información de clientes, tipo de contrato, uso de servicios y gastos, entre otras variables.
 
+## 📂 Datos
+El proyecto utiliza un archivo CSV (`telecomXdata_limpio.csv`) que contiene información limpia y lista para el análisis.  
+Este archivo está incluido en la carpeta `data/` del repositorio
+
 ## 🛠 Tecnologías utilizadas
 - Python
 - Pandas
